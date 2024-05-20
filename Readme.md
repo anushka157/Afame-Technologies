@@ -1,1 +1,1 @@
-This Project has been created for sales analysis at Afame technologies
+# This Project demonstrate the Sales analysis at Afame Technologies.
